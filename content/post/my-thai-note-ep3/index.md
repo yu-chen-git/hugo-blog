@@ -9,7 +9,7 @@ categories: ["🎸 生活風格"]
 image: my-thai-note-ep3_01.png
 ---
 
-上一篇〈[泰文小筆記 EP.2](https://zeoutput.com/2023/09/my-thai-note-ep2/)〉提到我報名了泰文課程，這一篇想分享我在 Level 1 課程中最主要的學習內容——泰文聲調。文章內容分為以下幾個部分：
+上一篇〈[泰文小筆記 EP.2]({{< relref "post/my-thai-note-ep2" >}})〉提到我報名了泰文課程，這一篇想分享我在 Level 1 課程中最主要的學習內容——泰文聲調。文章內容分為以下幾個部分：
 
 *   [什麼是泰文聲調（Thai Tones）](#what-is-thai-tones)
 *   [泰文聲調的發音](#pronunciation-of-thai-tones)

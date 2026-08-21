@@ -15,7 +15,7 @@ image: my-thai-note-ep1.png
 
 ![](https://media.giphy.com/media/SYWmCrJRZ8uErxomfh/giphy-downsized-large.gif)
 
-我也試過拿著子音表從 ก 開始背，而且試了不只一次，卻從來沒有成功背完。後來在看[《黑幫少爺愛上我》](https://zeoutput.com/2023/01/kinnporsche-the-series-la-forte/)時聽到 [แค่เธอ (Why Don't You Stay)](https://youtu.be/s-MZid-59Hc) 這首歌，不禁幻想如果略懂吉他又能唱出泰文歌詞，是不是就能跟劇裡的 Kim 一樣帥氣又會有可愛的弟弟崇拜我呢？
+我也試過拿著子音表從 ก 開始背，而且試了不只一次，卻從來沒有成功背完。後來在看[《黑幫少爺愛上我》]({{< relref "post/kinnporsche-the-series-la-forte" >}})時聽到 [แค่เธอ (Why Don't You Stay)](https://youtu.be/s-MZid-59Hc) 這首歌，不禁幻想如果略懂吉他又能唱出泰文歌詞，是不是就能跟劇裡的 Kim 一樣帥氣又會有可愛的弟弟崇拜我呢？
 
 結果在學歌詞的路上意外地堅持了下來，雖然還是差 Kim 大概十八個光年的距離，但至少學完這首歌後記得不少子音母音，也開始覺得學泰文還滿有趣的。
 
