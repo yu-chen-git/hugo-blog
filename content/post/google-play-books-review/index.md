@@ -61,7 +61,7 @@ image: google-play-books-review_cover.png
 * **漫畫字體限制**：手機上看書我覺得挺適合的，但看漫畫真的是有點痛苦（雖然部分漫畫有一個點對話框放大的功能，但要一個個點我還是覺得很麻煩），所以看漫畫我通常會從 PC 開。如果是閱讀漫畫為主的族群可能不太適合，或是要考慮再搭配其他設備。
 * **無法轉賣**：買到不喜歡的書你再討厭它也是無法賣掉，只能讓它消失在你的電子書櫃但無法再消費它，多少還是令人有點惆悵。~~不過你還是可以寫心得讓全世界知道它有多難看幫大家避雷！~~
 
-![有 EPUB 流式排版的書讀](google-play-books-review_2.jpg)  ![非流式排版的書讀（但這本內容很讚）](google-play-books-review_3.jpg)
+![有 EPUB 流式排版的書](google-play-books-review_2.jpg)  ![非流式排版的書（但這本內容很讚）](google-play-books-review_3.jpg)
 
 ### 小 Tips 分享
 
